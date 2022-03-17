@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImeTray", "ImeTray.csproj", "{7FF1C676-D4CF-4E95-8C9B-5D55BF5D8053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF1C676-D4CF-4E95-8C9B-5D55BF5D8053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF1C676-D4CF-4E95-8C9B-5D55BF5D8053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF1C676-D4CF-4E95-8C9B-5D55BF5D8053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF1C676-D4CF-4E95-8C9B-5D55BF5D8053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E6AF7B-59E1-4ECF-9BCF-DFE62BC92E45}
+	EndGlobalSection
+EndGlobal
